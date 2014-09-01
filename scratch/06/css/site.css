@@ -1,0 +1,4 @@
+a:focus,
+input[type="text"] {
+    outline: none;
+}

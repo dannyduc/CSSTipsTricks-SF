@@ -1,0 +1,21 @@
+/* Normal CSS */
+.demo-p {
+    /*font-style: italic;*/
+    /*font-weight: bold;*/
+    /*font-size: 13px;*/
+    /*line-height: 1.5;*/
+    /*font-family: Arial, sans-serif;*/
+    /*background-color: #ccc;*/
+    /*padding-top: 1em;*/
+    /*padding-bottom: 1em;*/
+    /*padding-left: 1em;*/
+    /*padding-right: 1em;*/
+}
+
+/* Shorthand CSS */
+.demo-p {
+    font: italic bold 13px/1.5 Arial, sans-serif;
+    background-color: #ccc;
+    /* top right bottom left */
+    padding: 1em 1em 1em 1em;
+}

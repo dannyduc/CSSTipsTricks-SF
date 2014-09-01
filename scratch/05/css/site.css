@@ -1,0 +1,13 @@
+::-webkit-input-placeholder {
+    color: blue;
+    background-color: cyan;
+    padding: 1em;
+}
+
+::-moz-placeholder {
+    color: red;
+}
+
+:-ms-input-placeholder {
+    color: green;
+}

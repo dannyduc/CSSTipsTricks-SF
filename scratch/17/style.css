@@ -1,0 +1,21 @@
+table {
+    border: 2px solid #eaeaea;
+}
+
+td,
+th {
+    border: 1px solid #eaeaea;
+    padding: 1em;
+}
+
+th {
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: #fafafa;
+}
+
+li:nth-child(3n-2) {
+    color: blue;
+}
